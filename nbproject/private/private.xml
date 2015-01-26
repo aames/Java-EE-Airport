@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Andrew/Documents/NetBeansProjects/AirportEE/AirportEE-war/src/java/net/ajed/airport/servlets/AllCustomerServlet.java</file>
+            <file>file:/C:/Users/Andrew/Documents/NetBeansProjects/AirportEE/AirportEE-war/src/java/net/ajed/airport/servlets/EditServlet.java</file>
+            <file>file:/C:/Users/Andrew/Documents/NetBeansProjects/AirportEE/AirportEE-war/src/java/net/ajed/airport/servlets/TestWeatherService.java</file>
+            <file>file:/C:/Users/Andrew/Documents/NetBeansProjects/AirportEE/AirportEE-war/web/customerlookup.jsp</file>
+            <file>file:/C:/Users/Andrew/Documents/NetBeansProjects/AirportEE/AirportEE-war/web/custflightcreate.jsp</file>
+            <file>file:/C:/Users/Andrew/Documents/NetBeansProjects/AirportEE/AirportEE-war/src/java/net/ajed/airport/servlets/CustomerFlight.java</file>
+            <file>file:/C:/Users/Andrew/Documents/NetBeansProjects/AirportEE/AirportEE-war/src/java/net/ajed/airport/beans/session/CustomerFlightInformationFacade.java</file>
+        </group>
+    </open-files>
+</project-private>

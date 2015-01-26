@@ -1,0 +1,14 @@
+SMAP
+customerlookup_jsp.java
+JSP
+*S JSP
+*F
++ 0 customerlookup.jsp
+customerlookup.jsp
+*L
+5,22:44
+27,4:66,3
+31,10:78
+41,3:88,3
+44,9:97
+*E
